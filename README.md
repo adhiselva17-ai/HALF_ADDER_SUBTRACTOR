@@ -58,4 +58,16 @@ Developed by: RegisterNumber:*/
 
 **Output/TIMING Waveform**
 
+
+
+
+![WhatsApp Image 2025-10-13 at 15 47 06_4f6100d7](https://github.com/user-attachments/assets/5bb32926-a630-4bad-b54e-03604e6ac029)
+
+
+
+![WhatsApp Image 2025-10-13 at 15 47 07_66a39400](https://github.com/user-attachments/assets/5c154309-bb01-4add-a560-b5db971ca195)
+
+
+
+
 **Result:**
